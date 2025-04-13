@@ -14,7 +14,7 @@ Implement cloud security best practices to protect your resources
 Build a portfolio of AWS projects to showcase your new cloud skills
 
 ## Project Structure
-This repository contains PDF guides for each project in the challenge. Each PDF includes step-by-step instructions, explanations of AWS concepts, and troubleshooting tips to ensure your success. But first read the [introduction document](https://github.com/Shaykhouna/nextwork_-_aws-beginners-challenge/legendary-aws-beginners-challenge.pdf)
+This repository contains PDF guides for each project in the challenge. Each PDF includes step-by-step instructions, explanations of AWS concepts, and troubleshooting tips to ensure your success. But first read the [introduction document](https://github.com/Shaykhouna/nextwork_-_aws-beginners-challenge/blob/main/legendary-aws-beginners-challenge.pdf)
 
 ## Getting Started
 
